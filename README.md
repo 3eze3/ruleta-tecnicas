@@ -26,7 +26,6 @@ Para ejecutar el simulador, asegúrate de tener Bash instalado en tu sistema. Lu
 
 ```bash
 git clone https://github.com/3eze3/ruleta-tecnicas.git
-cd casinoTecnicas
 ./ruleta.sh -m <dinero_inicial> -t <tecnica_de_apuesta>
 ```
 ¡Espero que esto sea lo que necesitas! Si tienes alguna otra solicitud o pregunta, no dudes en decirme.
